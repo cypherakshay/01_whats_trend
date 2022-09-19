@@ -1,0 +1,173 @@
+/* BODY */
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Orbitron" , sans-serif;
+    box-sizing: border-box ;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-top: 55px;
+    padding: 0 20px;
+}
+
+/* NAVBAR */
+
+.navbar-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.list {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    gap: 60px;
+}
+
+.list-item {
+    font-weight: 500;
+    font-style: normal;
+    font-size: 25px;
+    cursor: pointer;
+    color: #202020;
+}
+
+.button-group {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.nav-button {
+    border: 3px Solid black;
+    border-radius: 15px;
+    padding: 6px 40px;
+    font-family: "Poppins" sans- serif;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: transparent;  
+    text-align: center;
+    cursor: pointer;
+    color: #515151;
+}
+
+.nav-button:hover {
+    background-color: #202020;
+    color: #ffffff;
+    transition: 0.4s;
+}
+
+
+/* HERO BANNER SECTION */
+
+.hero-container {
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    position: relative;
+}
+
+.square {
+    position: absolute;
+    bottom: -52px;
+    left: 14%;
+    z-index: -5;
+}
+
+.star {
+    position: absolute;
+    right: 2%;
+    top: -10px;
+}
+
+.globe {
+    position: absolute;
+    top: -50px;
+    right: 40%;
+}
+
+.hero-container-right {
+    margin-left: 150px;
+    text-align: center;
+}
+
+.hero-heading {
+    font-family: "Orbitron";
+    font-weight: 800;
+    font-style: normal;
+    font-size: 50px;
+    line-height: 90px;
+    margin-bottom: 40px;
+    color: #202020;
+    margin-top: 80px;
+}
+
+.hero-description {
+    margin: 0 auto;
+    max-width: 650px;
+    font-family: "poppins" , sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    color: #515151;
+    margin-bottom: 125px;
+}
+
+.button-email {
+    font-family: "Orbitron" , sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    color: #515151;
+    background-color: transparent;
+    line-height: 30px;
+    border: 3px solid #202020;
+    border-radius: 12px;
+    padding: 5px 40px;
+    margin-right: 5px;
+    text-align: center;
+}
+
+.button-join {
+    font-family: "Orbitron" , sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 300;
+    color: #ffffff;
+    background-color: #202020;
+    line-height: 30px;
+    border-radius: 12px;
+    padding: 5px 15px;
+    cursor: pointer;
+    text-align: center;
+    border: 3px solid #202020;
+    margin-bottom: 130px;
+}
+
+.button-join:hover {
+    background-color: #ffffff;
+    transition: 0.4s;
+    border: 3px solid #202020;
+    color: #202020;
+}
+
+
+.contact-heading {
+    font-family: "Poppins" , sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 400;
+    color: #515151;
+    line-height: 35px;
+    margin-bottom: 5px;
+}
+
+
