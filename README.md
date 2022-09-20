@@ -10,7 +10,7 @@
 &nbsp;
 
 ## **Project 01**  -  Whats trend `(static page)`
----
+
 &nbsp;
 
 > ## **Project Description**
@@ -29,7 +29,7 @@ Time Duration :  2hrs to complete this project
 &nbsp;
 
 ## **TECH STACK**
----
+
 
 &nbsp;
 
@@ -38,7 +38,6 @@ Time Duration :  2hrs to complete this project
 &nbsp;
 
 ## **PROJECT SNAPSHOT**
----
 
 &nbsp;
 
@@ -47,7 +46,6 @@ Time Duration :  2hrs to complete this project
 &nbsp;
 
 ## **LIVE PROJECT**
----
 
 ```
 
