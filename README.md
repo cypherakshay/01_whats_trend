@@ -80,7 +80,7 @@ Time Duration :  2hrs to complete this project
 
 ## **Follow me on :**
 
-[![Hashnode](./ReadmeAssets/hashnodelogo.png "Follow on Hashnode")]("https://hashnode.com/@CypherAkshay")
+[![Hashnode](./ReadmeAssets/hashnodelogo.png "Follow on Hashnode")](https://hashnode.com/@CypherAkshay)
 [![Linkedin](./ReadmeAssets/linkedinlogo.png "Follow on Linkedin")]("https://www.linkedin.com/in/cypher-akshay/")
 [![Twitter](./ReadmeAssets/twitterlogo.png "Follow on Twitter")]("https://twitter.com/cypherakshay")
 
