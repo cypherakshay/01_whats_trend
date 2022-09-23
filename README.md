@@ -23,9 +23,9 @@ This project is a static page contains Hero Section of dummy website with navbar
 I write the code with proper comment to understand its reference easily to the other coder and also this page is not mobile responsive cause I am learning the execution of code so, i want to inculcate the basics first.
 &nbsp;
 
-```
-Time Duration :  2hrs to complete this project
-```
+
+### **Time Duration :  2hrs to complete this project**
+
 &nbsp;
 
 ## **TECH STACK**
@@ -47,9 +47,11 @@ Time Duration :  2hrs to complete this project
 
 ## **LIVE PROJECT**
 
-```
 
-```
+https://cypherakshay-whats-trend.netlify.app/
+
+[<img alt="Go Live" width="150px" src="./ReadmeAssets/live.gif" />](https://cypherakshay-whats-trend.netlify.app/ "Go Live")
+
 
 &nbsp;
 
@@ -65,7 +67,7 @@ Time Duration :  2hrs to complete this project
 
 ---
 ---
----
+
 
 &nbsp;
 
@@ -73,16 +75,26 @@ Time Duration :  2hrs to complete this project
 
 ## **CHECK MY OTHER LIVE PROJECTS :**
 
- [![FindCoder](./ReadmeAssets/findcoderlogo.png "Check my Portfolio")]("https://twitter.com/cypherakshay")
+ [<img alt="Fincoder Portfolio" width="200px" src="./ReadmeAssets/findcoderlogo.png" />](https://www.findcoder.io/u/akshaymishra "Check my Portfolio")
  >***Click on Findcoder logo to check my portfolio of other projects.***
 
 &nbsp;
 
 ## **Follow me on :**
+[<img alt="Hashnode" width="100px" src="./ReadmeAssets/hashnodelogo.png" />](https://hashnode.com/@CypherAkshay "Follow me on Hashnode")
+[<img alt="Linkedin" width="100px" src="./ReadmeAssets/linkedinlogo.png" />](https://www.linkedin.com/in/cypher-akshay/ "Follow me on Linkedin")
+[<img alt="Twitter" width="100px" src="./ReadmeAssets/twitterlogo.png" />](https://twitter.com/cypherakshay "Follow me on Twitter")
 
-[![Hashnode](./ReadmeAssets/hashnodelogo.png "Follow on Hashnode")](https://hashnode.com/@CypherAkshay)
-[![Linkedin](./ReadmeAssets/linkedinlogo.png "Follow on Linkedin")]("https://www.linkedin.com/in/cypher-akshay/")
-[![Twitter](./ReadmeAssets/twitterlogo.png "Follow on Twitter")]("https://twitter.com/cypherakshay")
+
+
+
 
 ```
 Follow me on Hashnode to read my articles on web development and lots of tips and tricks are coming soon for the coder community.
+```
+
+
+
+
+
+
