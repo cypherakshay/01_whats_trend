@@ -76,7 +76,7 @@ I write the code with proper comment to understand its reference easily to the o
 ## **CHECK MY OTHER LIVE PROJECTS :**
 
  [<img alt="Fincoder Portfolio" width="200px" src="./ReadmeAssets/findcoderlogo.png" />](https://www.findcoder.io/u/akshaymishra "Check my Portfolio")
- >***Click on Findcoder logo to check my portfolio of other projects.***
+ ##### (Click on Findcoder logo to check my portfolio of other projects.)
 
 &nbsp;
 
@@ -90,7 +90,7 @@ I write the code with proper comment to understand its reference easily to the o
 
 
 
-##### Follow me on Hashnode to read my articles on web development and lots of tips and tricks are coming soon for the coder community.
+##### (Follow me on Hashnode to read my articles on web development and lots of tips and tricks are coming soon for the coder community.)
 
 
 
