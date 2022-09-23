@@ -48,9 +48,9 @@ I write the code with proper comment to understand its reference easily to the o
 ## **LIVE PROJECT**
 
 
-https://cypherakshay-whats-trend.netlify.app/
+&nbsp;
 
-[<img alt="Go Live" width="150px" src="./ReadmeAssets/live.gif" />](https://cypherakshay-whats-trend.netlify.app/ "Go Live")
+[<img alt="Go Live" width="150px" src="./ReadmeAssets/live.png" />](https://cypherakshay-whats-trend.netlify.app/ "Go Live")
 
 
 &nbsp;
