@@ -17,10 +17,11 @@
 
 &nbsp;
 
-This project is a static page contains Hero Section of dummy website with navbar section. In this project I learned to wrap all content in fixed width so, the element would not leak on different size of screen. Also learned to align content and flex in box, which makes the task very easier.
+This project is a static page containing the Hero Section of a dummy website with a navbar section. In this project I learned to wrap all content in fixed width so, the element would not leak on different sizes of screen. Also learned to align content and flex-box, which makes the task very easier.  
+
 &nbsp;
 
-I write the code with proper comment to understand its reference easily to the other coder and also this page is not mobile responsive cause I am learning the execution of code so, i want to inculcate the basics first.
+I write the code with the proper comments to understand its reference easily to the other coder and also this page is not mobile responsive cause I am learning the execution of code, I want to inculcate the basics first. 
 &nbsp;
 
 
@@ -55,15 +56,10 @@ I write the code with proper comment to understand its reference easily to the o
 
 &nbsp;
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
 
 ---
 ---
