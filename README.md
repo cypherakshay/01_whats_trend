@@ -1,7 +1,7 @@
 
 ![Akshay Logo](./ReadmeAssets/akshayLogo.png)
 # AKSHAY MISHRA 
-### (In the journey of becoming Full Stack Developer)              
+### (Aspiring Full Stack Javscript Web Developer)              
 
 &nbsp;
 
